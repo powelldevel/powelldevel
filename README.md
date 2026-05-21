@@ -1,16 +1,16 @@
 # Hi, I'm Kgotso Powell
 
-**AI Full-Stack Developer** building practical SaaS tools with Next.js, Supabase, and OpenAI.
+**AI Full-Stack Developer** building AI-powered SaaS, agent, finance-ops, and companion apps with Next.js, Supabase, and OpenAI.
 
-I focus on turning real business workflows into usable software: AI intake, dashboards, quotes, invoices, automation, and operational tools for small businesses.
+My repos show a range of applied AI products: contractor operations, assistance agents, financial/risk workflows, conversational companions, dashboards, automation, quotes, invoices, and API-backed business tools.
 
 ## What I Build
 
-- AI-powered business apps
-- Full-stack SaaS MVPs
-- Next.js dashboards and workflows
-- Supabase-backed products
-- OpenAI-powered automation tools
+- AI-powered SaaS MVPs
+- Agent and automation workflows
+- Finance/risk operations tools
+- Conversational AI companion apps
+- Next.js dashboards, APIs, and Supabase-backed products
 
 ## Featured Repos
 
