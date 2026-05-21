@@ -12,9 +12,11 @@ I focus on turning real business workflows into usable software: AI intake, dash
 - Supabase-backed products
 - OpenAI-powered automation tools
 
-## Featured Project
+## Featured Repos
 
 ### SiteGent
+
+Repo: <https://github.com/powelldevel/SiteAgent-AI>
 
 WhatsApp-first AI operations app for South African contractors.
 
@@ -26,7 +28,23 @@ It turns messy customer messages into:
 - follow-up messages
 - saved operations records
 
-Repo: <https://github.com/powelldevel/SiteAgent-AI>
+### ThusaAgent
+
+Repo: <https://github.com/powelldevel/ThusaAgent->
+
+AI agent project focused on practical assistance workflows and frontend product experience.
+
+### FinGuard AgentOps AI
+
+Repo: <https://github.com/powelldevel/finguard-agentops-ai>
+
+AI operations and risk-oriented app work, showing backend/API thinking and applied agent workflows.
+
+### Knowmo AI Companion
+
+Repo: <https://github.com/powelldevel/knowmo-ai-companion>
+
+AI companion project exploring conversational product experiences and human-centered AI interfaces.
 
 ## Tech I Use
 
@@ -40,4 +58,3 @@ I am building toward roles in:
 - SaaS Product Engineering
 - AI Automation Engineering
 - Frontend/Product Engineering
-
