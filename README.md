@@ -1,60 +1,58 @@
 # Hi, I'm Kgotso Powell
 
-**AI Full-Stack Developer** building AI-powered SaaS, agent, finance-ops, and companion apps with Next.js, Supabase, and OpenAI.
+Software developer building production-minded AI systems and web applications.
 
-My repos show a range of applied AI products: contractor operations, assistance agents, financial/risk workflows, conversational companions, dashboards, automation, quotes, invoices, and API-backed business tools.
+My strongest work is not a collection of chatbot wrappers. It covers retrieval, evaluation, streaming APIs, structured outputs, database boundaries, CI, and containerized delivery. Every featured repository states what is real, what is simulated, and what still needs production hardening.
 
-## What I Build
+## Featured engineering work
 
-- AI-powered SaaS MVPs
-- Agent and automation workflows
-- Finance/risk operations tools
-- Conversational AI companion apps
-- Next.js dashboards, APIs, and Supabase-backed products
+### [Grounded RAG](https://github.com/powelldevel/grounded-rag)
 
-## Featured Repos
+A multi-tenant retrieval API built with FastAPI, PostgreSQL, pgvector, and OpenAI.
 
-### SiteGent
+- document ingestion, chunking, embeddings, and vector retrieval
+- grounded answers with citations and an explicit refusal path
+- tenant-scoped queries and database constraints
+- retrieval and answer-quality evaluation fixtures
+- strict typing, automated tests, CI, Docker, and health/readiness checks
 
-Repo: <https://github.com/powelldevel/SiteAgent-AI>
+### [SiteGent](https://github.com/powelldevel/SiteGent)
 
-WhatsApp-first AI operations app for South African contractors.
+A contractor operations application that converts unstructured customer messages into structured job, quote, invoice, and follow-up workflows.
 
-It turns messy customer messages into:
+- schema-validated AI outputs with retry and fallback behavior
+- model cost, latency, and outcome instrumentation
+- offline evaluation suite and pricing regression checks
+- authenticated data boundaries, CI, and a production Docker image
 
-- job cards
-- quote drafts
-- invoice drafts
-- follow-up messages
-- saved operations records
+### [FinGuard AgentOps AI](https://github.com/powelldevel/finguard-agentops-ai)
 
-### ThusaAgent
+A FastAPI service for explainable financial-risk analysis.
 
-Repo: <https://github.com/powelldevel/ThusaAgent->
+- typed request and response contracts
+- Server-Sent Events for streaming analysis progress
+- deterministic demo mode for testing without paid model calls
+- automated API tests, CI, and container health checks
 
-AI agent project focused on practical assistance workflows and frontend product experience.
+### [FleetFinder](https://github.com/powelldevel/FleetFinder)
 
-### FinGuard AgentOps AI
+A responsive fleet-operations dashboard prototype built with React and TypeScript.
 
-Repo: <https://github.com/powelldevel/finguard-agentops-ai>
+- vehicle, driver, maintenance, and route-planning interfaces
+- dual build validation, rendered-page tests, CI, and Docker packaging
+- intentionally presented as a product prototype, not a live telematics platform
 
-AI operations and risk-oriented app work, showing backend/API thinking and applied agent workflows.
+## Additional software projects
 
-### Knowmo AI Companion
+- [Math Raceway](https://github.com/powelldevel/mathrace-game) — a keyboard-driven two-player arithmetic game demonstrating React state, timers, scoring, and responsive UI work.
+- [ThusaAgent](https://github.com/powelldevel/ThusaAgent) — an experimental South African SME compliance workflow. Its external checks are explicitly mocked; it is not presented as a production compliance product.
 
-Repo: <https://github.com/powelldevel/knowmo-ai-companion>
+## Engineering toolkit
 
-AI companion project exploring conversational product experiences and human-centered AI interfaces.
+`Python` `FastAPI` `TypeScript` `React` `Next.js` `PostgreSQL` `pgvector` `OpenAI API` `Docker` `GitHub Actions` `pytest` `mypy`
 
-## Tech I Use
+## What I am targeting
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `OpenAI` `Postgres` `GitHub`
+AI engineering and software engineering roles where I can build, test, observe, and ship model-backed systems—not just demo them.
 
-## Current Direction
-
-I am building toward roles in:
-
-- AI Full-Stack Development
-- SaaS Product Engineering
-- AI Automation Engineering
-- Frontend/Product Engineering
+I am continuing to deepen this portfolio with production authentication, background job processing, deployment telemetry, and measured model/retrieval quality.
